@@ -42,7 +42,7 @@ const Footer = () => {
       <div className="app__footer-cards">
         <div className="app__footer-card ">
           <img src={images.email} alt="email" />
-          <a href="mailto:basti74600@hotmail.fr" className="p-text">marozzabastien@gmail.com</a>
+          <a href="mailto:marozzabastien@gmail.com" className="p-text">marozzabastien@gmail.com</a>
         </div>
         <div className="app__footer-card">
           <img src={images.mobile} alt="phone" />
@@ -75,7 +75,7 @@ const Footer = () => {
           </h3>
         </div>
       )}
-      <div className='copyright'>©2022 BASTIEN MAROZZA. Tous droits réservés.</div>
+      <div className='copyright'>©2024 BASTIEN MAROZZA. Tous droits réservés.</div>
     </>
   );
 };
